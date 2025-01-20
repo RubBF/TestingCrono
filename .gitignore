@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Reportes y resultados de pruebas
+test-results/
+src/reportes/
+
+# Archivos sensibles
+.env
