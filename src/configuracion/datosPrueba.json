@@ -1,0 +1,9 @@
+{
+    "simulacionCredito": {
+      "rut": "1.558.509-65",
+      "montoSolicitado": "1000000",
+      "formaPago": "1",
+      "diaPago": "30"
+    }
+  }
+  
