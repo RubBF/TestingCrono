@@ -1,17 +1,17 @@
 {
-    "name": "caep-automation",
-    "version": "1.0.0",
-    "description": "Proyecto de automatización con Playwright para CAEP",
-    "main": "index.js",
-    "scripts": {
-  "clean:results": "node cleanResults.js",
-  "test": "npm run clean:results && playwright test"
-},
-    "author": "Tu Nombre",
-    "license": "ISC",
-    "dependencies": {
-        "@playwright/test": "^1.49.1",
-        "dotenv": "^16.4.7",
-        "playwright": "^1.49.1"
-    }
+  "name": "caep-automation",
+  "version": "1.0.0",
+  "description": "Proyecto de automatización con Playwright para CAEP",
+  "main": "index.js",
+  "scripts": {
+    "clean:results": "node cleanResults.js",
+    "test": "npm run clean:results && playwright test"
+  },
+  "author": "RubBF",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.49.1",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.1"
+  }
 }
